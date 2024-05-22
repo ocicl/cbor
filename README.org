@@ -1,0 +1,9 @@
+* cbor
+
+CBOR library for Common Lisp
+
+|---------+---------------------------------------------|
+| source  | git:https://github.com/mishoo/cbor.lisp.git |
+| commit  | 129d090                                     |
+| systems | cbor                                        |
+|---------+---------------------------------------------|
